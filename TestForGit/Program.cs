@@ -14,6 +14,7 @@ namespace TestForGit
             Console.WriteLine("Second line");
             Console.WriteLine("Third Line");
             Console.WriteLine("Fourth Line");
+            Console.WriteLine("Fifth Line");
         }
     }
 }
