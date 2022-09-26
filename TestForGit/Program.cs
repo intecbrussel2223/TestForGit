@@ -12,6 +12,7 @@ namespace TestForGit
         {
             Console.WriteLine("Test");
             Console.WriteLine("Second line");
+            Console.WriteLine("Third Line");
         }
     }
 }
